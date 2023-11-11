@@ -1753,6 +1753,11 @@
         }
       }
     },
+{
+      "name": "天空解析",
+      "type": 3,
+      "url": "https://jx.huishij.com/yun/?url="
+},
          //锦哥解析========
     {
       "name": "超级嗅探",
