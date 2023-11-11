@@ -128,7 +128,7 @@
       "key": "野狐",
       "name": "野狐资源网",
       "type": 0,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -188,29 +188,6 @@
           "searchable": 1,
           "changeable": 1,
           "ext": "http://www.xb6v.com/"
-      },
-      {
-          "key": "gszy",
-          "name": "🎥┃光速┃资源",
-          "type": 4,
-          "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-          "searchable": 1,
-          "filterable": 0,
-          "categories": [
-              "电影",
-              "电视剧",
-              "综艺",
-		"动漫",
-              "动作片",
-              "喜剧片",
-              "爱情片",
-              "科幻片",
-		"剧情片",
-              "恐怖片",
-              "战争片",
-		"大陆剧",
-		"欧美剧",
-		"港澳剧","韩剧","动漫电影","日剧","台湾剧"]
       },
       {
           "key": "量子资源",
