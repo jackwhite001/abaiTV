@@ -2129,7 +2129,6 @@
         {
             "flag": ["360", "qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
         }
-    }],
     },
          //锦哥解析========
     {
@@ -2227,7 +2226,7 @@
         "哔哩哔哩",
         "哔哩"
       ]
-    },
+    }
   ],
    "rules": [
     {
@@ -2576,7 +2575,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com",
     "qiu.xixiqiu.com",
-    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
-
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
