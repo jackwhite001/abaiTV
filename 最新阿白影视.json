@@ -109,7 +109,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-        "filter": "./JS/wogg.json",
+        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/wogg.json",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -471,8 +471,8 @@
       "key": "畅梦",
       "name": "🚛畅梦┃秒播",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/changmeng.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/changmeng.js"
     },
     {
       "key": "A8影视",
@@ -502,7 +502,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/dianyinghezi.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/dianyinghezi.json"
     },
     {
       "key": "明帝影视",
@@ -522,7 +522,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/Vidhub.json"
+      "ext": "https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/Vidhub.json"
     },
     {
         "key": "csp_星辰",
