@@ -386,7 +386,7 @@
     {
         "key": "csp_xml_红牛",
         "name": "🐮红牛",
-        "type": 1,
+        "type": 3,
         "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
@@ -954,7 +954,7 @@
     {
       "key": "zy_新浪",
       "name": "🏄🏻┃新浪┃资源",
-      "type": 1,
+      "type": 3,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -984,7 +984,7 @@
     {
       "key": "api_xml_搜糊",
       "name": "️🦊┃搜糊┃影视",
-      "type": 1,
+      "type": 3,
       "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
       "playUrl": "https://jx.777jiexi.com/player/?url=",
       "searchable": 1,
@@ -1820,6 +1820,47 @@
       "type": 3,
       "url": "Demo"
     },
+    {
+      "name": "超级嗅探",
+      "type": 3,
+      "url": "Web"
+    },
+    //乐嘉====
+    {
+        "name": "乐乐",
+        "type": 1,
+        "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+        "name": "毛毛",
+        "type": 1,
+        "url": "http://jx.daenys.vip:2587/tjxdsg.php?url="
+    },
+    {
+        "name": "奇奇",
+        "type": 1,
+        "url": "https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="
+    },
+    {
+        "name": "毛毛2",
+        "type": 1,
+        "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+    },
+    {
+        "name": "世世",
+        "type": 1,
+        "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="
+    },
+    {
+        "name": "追追",
+        "type": 1,
+        "url": "http://115.231.220.36:9999/jx/tvbox/zytv.php?url="
+    },
+    {
+        "name": "酷酷",
+        "type": 1,
+        "url": "http://jx.realdou.cn/api/?key=FfeBSwPEyz1MBrTCvd&url="
+    },
     //饭解析
      {
       "name": "json一",
@@ -1829,7 +1870,7 @@
     {
       "name": "json二",
       "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": " "
     },
     {
       "name": "解析二",
@@ -1886,41 +1927,6 @@
       }
     },
     //乐享解析
-    {
-        "name": "乐乐",
-        "type": 1,
-        "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-    },
-    {
-        "name": "毛毛",
-        "type": 1,
-        "url": "http://jx.daenys.vip:2587/tjxdsg.php?url="
-    },
-    {
-        "name": "奇奇",
-        "type": 1,
-        "url": "https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="
-    },
-    {
-        "name": "毛毛2",
-        "type": 1,
-        "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-    },
-    {
-        "name": "世世",
-        "type": 1,
-        "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="
-    },
-    {
-        "name": "追追",
-        "type": 1,
-        "url": "http://115.231.220.36:9999/jx/tvbox/zytv.php?url="
-    },
-    {
-        "name": "酷酷",
-        "type": 1,
-        "url": "http://jx.realdou.cn/api/?key=FfeBSwPEyz1MBrTCvd&url="
-    },
     {
         "name": "圈圈",
         "type": 1,
@@ -2131,11 +2137,6 @@
         }
     },
          //锦哥解析========
-    {
-      "name": "超级嗅探",
-      "type": 3,
-      "url": "Web"
-    },
     {
       "name": "一世琉璃",
       "type": 0,
