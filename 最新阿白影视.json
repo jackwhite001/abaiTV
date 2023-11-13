@@ -37,7 +37,7 @@
      "key":"T4_wo",
      "name":"玩偶┃T4",
      "type":3,
-     "jar": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/jar/JGWO.jar",
+     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/jar/JGWO.jar",
      "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
      "searchable":1,
      "quickSearch":1,
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/jar/HeChengChaXiu.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/jar/HeChengChaXiu.jar",
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
@@ -109,10 +109,10 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-        "filter": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/JS/wogg.json",
+        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/wogg.json",
         "danmu": true
       },
-      "jar": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/jar/danmu.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/jar/danmu.jar"
     },
     {
       "key": "csp_WoGG",
@@ -160,14 +160,6 @@
       "api": "http://jin.xn--kwra9540c.love/js/api.js",
       "ext": "http://jin.xn--kwra9540c.love/sj/nangua",
       "changeable": 0
-    },
-    {
-      "key": "csp_XBPQnmys",
-      "name": "💗锦哥影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "viewType": 1,
-      "ext": "http://jin.xn--kwra9540c.love/sj/lezhu"
     },
     {
       "key": "drpy_js_超前点播",
@@ -578,7 +570,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/JS/dianyinghezi.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/dianyinghezi.json"
     },
     {
       "key": "明帝影视",
@@ -598,7 +590,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/JS/Vidhub.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/Vidhub.json"
     },
     {
         "key": "csp_星辰",
@@ -804,7 +796,7 @@
       "key": "js_6V",
       "name": "✡️┃六维┃4K",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -857,7 +849,7 @@
       "key": "js_nangua",
       "name": "🎃┃南瓜┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -971,7 +963,7 @@
           "key": "磁力熊",
           "name": "🐻┃磁熊┃4k",
           "type": 3,
-          "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+          "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
           "searchable": 1,
           "changeable": 1,
           "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
@@ -1059,7 +1051,7 @@
       "key": "js_bzys",
       "name": "🌋┃B站┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1079,7 +1071,7 @@
       "key": "js_mogu",
       "name": "🍄┃蘑菇┃影视",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1374,7 +1366,7 @@
       "key": "js_农民",
       "name": "👨‍🌾┃农民┃2K",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
