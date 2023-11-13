@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/jarjar/HeChengChaXiu.jar",
+      "jar": "https://jihulab.com/demobai/mystorage/-/raw/main/myTV/jar/HeChengChaXiu.jar",
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
@@ -863,197 +863,197 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/nangua.js"
     },
-     {
-      "key": "豪华资源",
-      "name": "🥬┃豪华┃2K",
-      "type": 4,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "香港剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "马泰剧",
-        "台湾剧",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "剧情片",
-        "战争片",
-        "动作片",
-        "科幻片",
-        "记录片",
-        "爱情片",
-        "喜剧片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-      ]
-    },
     {
-      "key": "csp_歪片",
-      "name": "🌋┃歪片┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/歪片星球.json"
-    },
-      {
-      "key": "影图",
-      "name": "⛺┃影图┃2K",
-      "type": 3,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-     {
-      "key": "蜗牛弹幕",
-      "name": "🐌┃蜗牛┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/蜗牛.json"
-    },
-    {
-      "key": "小赞影视",
-      "name": "🐼┃外国┃影视",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://zy.xzam.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "日韩剧",
-        "国产剧",
-        "电影"
-      ]
-    },
-     {
-      "key": "鑫鑫影视",
-      "name": "🐼┃鑫鑫┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "drpy_js_moflix影视",
-      "name": "🐈┃mof┃2k",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/moflix.js"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "🌩┃玩偶┃4k",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
-    },
-    {
-      "key": "磁力熊",
-      "name": "🐻┃磁熊┃4k",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
-    },
-    {
-      "key": "嘉靓",
-      "name": "☃┃嘉靓┃2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:88/api.php/app/"
-    },
-    {
-      "key": "csp_FreeOK",
-      "name": "💰️┃富瑞┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/free.json"
-    },
-    {
-      "key": "csp_101",
-      "name": "🛎┃LOL┃2K",
-      "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/LOL.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "🏰┃圣城┃2K",
-      "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json"
-    },
-      {
-      "key": "csp_威士",
-      "name": "⛱┃VSY┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/vs影视.json"
-    },
-     {
-      "key": "csp_xBPQ_奇优",
-      "name": "🌝┃奇优┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/奇优影视.json"
-    },
-    {
-      "key": "csp_兔年",
-      "name": "🐇┃兔年┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/YYDS影视.json"
-    },
-    {
-      "key": "素白",
-      "name": "🦢┃小白┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/素白白.json"
+        "key": "豪华资源",
+        "name": "🥬┃豪华┃2K",
+        "type": 1,
+        "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "categories": [
+            "内地剧",
+            "香港剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "马泰剧",
+            "台湾剧",
+            "动画片",
+            "中国动漫",
+            "日本动漫",
+            "欧美动漫",
+            "剧情片",
+            "战争片",
+            "动作片",
+            "科幻片",
+            "记录片",
+            "爱情片",
+            "喜剧片",
+            "灾难片",
+            "悬疑片",
+            "犯罪片",
+            "大陆综艺",
+            "日韩综艺",
+            "港台综艺",
+            "欧美综艺"
+        ]
+    },                           
+        {
+          "key": "csp_歪片",
+          "name": "🌋┃歪片┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/歪片星球.json"
+        },
+          {
+          "key": "影图",
+          "name": "⛺┃影图┃2K",
+          "type": 3,
+          "api": "https://cj.vodimg.top/api.php/provide/vod/",
+          "searchable": 1,
+          "quickSearch": 1
+        },
+         {
+          "key": "蜗牛弹幕",
+          "name": "🐌┃蜗牛┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/蜗牛.json"
+        },
+        {
+          "key": "小赞影视",
+          "name": "🐼┃外国┃影视",
+          "type": 1,
+          "playerType": 1,
+          "api": "http://zy.xzam.cn/api.php/provide/vod/",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "changeable": 1,
+          "categories": [
+            "欧美剧",
+            "日韩剧",
+            "国产剧",
+            "电影"
+          ]
+        },
+         {
+          "key": "鑫鑫影视",
+          "name": "🐼┃鑫鑫┃影视",
+          "type": 3,
+          "api": "csp_AppYsV2",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
+        {
+          "key": "drpy_js_moflix影视",
+          "name": "🐈┃mof┃2k",
+          "type": 3,
+          "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/moflix.js"
+        },
+        {
+          "key": "csp_WoGG",
+          "name": "🌩┃玩偶┃4k",
+          "type": 3,
+          "api": "csp_WoGG",
+          "searchable": 1,
+          "quickSearch": 1,
+          "changeable": 0,
+          "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
+        },
+        {
+          "key": "磁力熊",
+          "name": "🐻┃磁熊┃4k",
+          "type": 3,
+          "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+          "searchable": 1,
+          "changeable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
+        },
+        {
+          "key": "嘉靓",
+          "name": "☃┃嘉靓┃2K",
+          "type": 3,
+          "api": "csp_AppYsV2",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://api.jialiangos.com:88/api.php/app/"
+        },
+        {
+          "key": "csp_FreeOK",
+          "name": "💰️┃富瑞┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/free.json"
+        },
+        {
+          "key": "csp_101",
+          "name": "🛎┃LOL┃2K",
+          "type": 3,
+          "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/LOL.json"
+        },
+        {
+          "key": "csp_圣城",
+          "name": "🏰┃圣城┃2K",
+          "type": 3,
+          "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json"
+        },
+          {
+          "key": "csp_威士",
+          "name": "⛱┃VSY┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/vs影视.json"
+        },
+         {
+          "key": "csp_xBPQ_奇优",
+          "name": "🌝┃奇优┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/奇优影视.json"
+        },
+        {
+          "key": "csp_兔年",
+          "name": "🐇┃兔年┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/YYDS影视.json"
+        },
+        {
+          "key": "素白",
+          "name": "🦢┃小白┃2K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/素白白.json"
     },
     {
       "key": "js_bzys",
