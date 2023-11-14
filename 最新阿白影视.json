@@ -584,6 +584,7 @@
             "name": "🐮阿白┃红牛",
             "type": 3,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "jar": "http://tt.58cxz.com/video/jar/fm0803.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
