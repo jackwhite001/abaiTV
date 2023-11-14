@@ -291,17 +291,6 @@
             "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
         },
         {
-            "key": "csp_New6v",
-            "name": "🧲阿白┃新6V┃4k",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.xb6v.com",
-            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
-        },
-        {
             "key": "csp_XYQHikerAL_4KHDR",
             "name": "🧲阿白┃4KHDR┃4k",
             "type": 3,
@@ -388,7 +377,8 @@
             "searchable":1,
             "filterable":1,
             "changeable":1,
-            "ext":"./JS/荐片.js"
+            "ext":"./JS/荐片.js",
+            "jar": "./jar/lxhfans.jar"
         },
         {
             "key":"KK",
@@ -441,7 +431,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./JS/九八影视.js"
+            "ext":"./JS/九八影视.js",
+            "jar": "./jar/lxhfans.jar"
         },
         {
            "key":"ZF",
@@ -828,7 +819,7 @@
         //时光盘==================================
         {
             "key": "csp_Lgyy",
-            "name": "时光┃蓝光直连",
+            "name": "💖阿白┃时光蓝光直连",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -885,7 +876,7 @@
         },
          {
           "key": "csp_小鹿",
-          "name": "🦌┃小鹿┃",
+          "name": "🦌阿白┃小鹿",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -896,7 +887,7 @@
         },
            {
           "key": "csp_万达",
-          "name": "🚤┃快艇┃",
+          "name": "🚤阿白┃快艇",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -909,7 +900,7 @@
         //==================================================
             {
           "key": "农民影视",
-          "name": "🚛农民┃秒播",
+          "name": "💖阿白┃农民秒播",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -920,7 +911,7 @@
         },
         {
           "key": "子子影视",
-          "name": "🚛子子┃秒播",
+          "name": "💖阿白┃子子秒播",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -931,7 +922,7 @@
         },
         {
           "key": "低端影视",
-          "name": "🚛低端┃秒播",
+          "name": "💖阿白┃低端秒播",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -942,7 +933,7 @@
         },
         {
           "key": "在线之家",
-          "name": "🚛外剧┃秒播",
+          "name": "💖阿白┃外剧秒播",
           "type": 3,
           "api": "./JS/drpy2.min.js",
           "ext": "./JS/zaixian.js",
@@ -950,7 +941,7 @@
         },
         {
           "key": "素白白",
-          "name": "🚛素白┃秒播",
+          "name": "💖阿白┃素白秒播",
           "type": 3,
           "api": "./JS/drpy2.min.js",
           "ext": "./JS/subaibai.js",
@@ -958,7 +949,7 @@
         },
         {
           "key": "lzi",
-          "name": "🚛量子资源",
+          "name": "💖阿白┃量子资源",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -969,7 +960,7 @@
         },
         {
           "key": "csp_Voflix",
-          "name": "🚛阿白Voflix",
+          "name": "💖阿白┃Voflix",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -980,7 +971,7 @@
         },
         {
           "key": "非凡资源",
-          "name": "🚛阿白非凡资源",
+          "name": "💖阿白┃非凡资源",
           "type": 3,
           "api": "csp_XBPQ",
           "searchable": 1,
@@ -990,19 +981,8 @@
           "jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
         },
         {
-          "key": "push_agent",
-          "name": "🍭推送",
-          "type": 3,
-          "api": "csp_Push",
-          "searchable": 0,
-          "quickSearch": 0,
-          "filterable": 0,
-          "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-          "jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
-        },
-        {
           "key": "黑狐",
-          "name": "🦇┃黑狐┃",
+          "name": "🦇阿白┃黑狐",
           "type": 3,
           "searchable": 1,
           "quickSearch": 1,
@@ -1047,7 +1027,7 @@
         },
         {
           "key": "csp_干饭",
-          "name": "🍱┃干饭┃",
+          "name": "🍱阿白┃干饭",
           "type": 3,
           "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
           "api": "csp_XBPQ",
@@ -1058,7 +1038,7 @@
         },
         {
           "key": "csp_xBPQ_疯狗",
-          "name": "🐕┃疯狗┃",
+          "name": "🐕阿白┃疯狗",
           "type": 3,
           "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
           "api": "csp_XBPQ",
@@ -1069,7 +1049,7 @@
         },
           {
           "key": "csp_盒子",
-          "name": "🍁┃电盒┃",
+          "name": "🍁阿白┃电盒",
           "type": 3,
           "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
           "api": "csp_XBPQ",
@@ -1080,7 +1060,7 @@
         },
           {
           "key": "皮皮虾",
-          "name": "🦐┃皮虾┃",
+          "name": "🦐阿白┃皮虾",
           "type": 3,
           "api": "csp_AppSK",
           "searchable": 1,
@@ -1125,7 +1105,7 @@
         },
         {
         "key": "csp_XBP南坊",
-        "name": "🏡┃南坊┃",
+        "name": "🏡阿白┃南坊",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
@@ -1231,7 +1211,7 @@
       },
       {
         "key":"奈落",
-        "name":"🍂┃奈落┃",
+        "name":"🍂阿白┃奈落",
         "type":3,
         "api":"csp_XBPQ",
         "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
@@ -1243,7 +1223,7 @@
           "分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
           {
             "key": "js_nangua",
-            "name": "🎃┃南瓜┃2K",
+            "name": "🎃阿白┃南瓜┃2K",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
@@ -1301,7 +1281,7 @@
         {
             "key": "影图",
             "name": "⛺阿白┃影图┃2K",
-            "type": 3,
+            "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
@@ -1480,48 +1460,6 @@
             "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
         },
         {
-            "key": "js_mogu",
-            "name": "🍄阿白┃蘑菇影视",
-            "type": 3,
-            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/蘑菇.js",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-        },
-        {
-            "key": "西门影视",
-            "name": "👺阿白┃西门影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://111.230.51.151:6969/api.php/app/",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-        },
-        {
-            "key": "csp_AppMr",
-            "name": "👻阿白┃明明影视",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-        },
-        {
-            "key": "Qtv",
-            "name": "🐧阿白┃企鹅官源",
-            "type": 3,
-            "api": "csp_Qtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-        },
-        {
             "key": "探探",
             "name": "🏄阿白┃影探┃4K",
             "type": 3,
@@ -1577,15 +1515,6 @@
                 "体育赛事",
                 "海外剧"
             ]
-        },
-        {
-            "key": "爱迪影视",
-            "name": "💘阿白┃爱迪┃2K",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppYsV2",
-            "ext": "https://api123.adys.app/xgapp.php/v3/",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
         },
         {
             "key": "速搜",
@@ -1705,7 +1634,7 @@
         },
         {
             "key": "XBPQ_葡萄",
-            "name": "🎦┃短剧┃葡萄",
+            "name": "🎦阿白┃短剧葡萄",
             "type": 3,
             "api": "csp_XBPQ",
             "ext":
