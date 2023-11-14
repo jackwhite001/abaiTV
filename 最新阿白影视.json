@@ -35,7 +35,7 @@
         },
         {
             "key": "畅梦",
-            "name": "💖阿白┃畅梦影视┃",
+            "name": "💖阿白┃畅梦影视",
             "type": 3,
             "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
             "ext": "http://cf.weixine.net/js/changmeng.js"
@@ -79,16 +79,6 @@
             "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
         },
         //新增================
-        {
-            "key": "哥哥弹幕版",
-            "name": "💖阿白┃哥哥弹幕",
-            "type": 4,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-        },
         {
             "key": "玩偶哥哥",
             "name": "💖阿白┃哥哥弹幕┃4K",
@@ -562,18 +552,6 @@
             ]
         },
         {
-            "key": "drpy_js_南瓜影视",
-            "name": "🎃阿白┃南瓜官解",
-            "type": 4,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "http://cdn.qiaoji8.com/fix1021.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"
-        },
-
-        {
             "key": "直播转点播",
             "name": "📺︎阿白┃电视直播",
             "type": 3,
@@ -797,31 +775,21 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/dianyinghezi.json"
-        },
-        {
-            "key": "明帝影视",
-            "name": "🚛明帝影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ys.md214.cn/api.php/app/"
+            "ext": "./JS/dianyinghezi.json"
         },
         {
             "key": "Vidhub视频",
-            "name": "🚛视频库",
+            "name": "🚛阿白┃视频库",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/JS/Vidhub.json"
+            "ext": "./JS/Vidhub.json"
         },
         {
             "key": "csp_星辰",
-            "name": "⭐┃星辰┃2K",
+            "name": "⭐阿白┃星辰┃2K",
             "type": 3,
             "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
             "api": "csp_XBPQ",
@@ -832,7 +800,7 @@
         },
         {
             "key": "迷你库",
-            "name": "迷你库",
+            "name": "💖阿白┃迷你库",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -2212,6 +2180,28 @@
             "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tongqu.js"
         },
         {
+             "key": "csp_XYQHiker_兔小贝",
+             "name": "🐰兔小贝",
+             "type": 3,
+             "api": "csp_XYQHiker",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 1,
+             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json",
+             "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"
+       },
+       {
+           "key": "csp_XYQHiker_兔小贝2",
+           "name": "🐰兔小贝2",
+           "type": 3,
+           "api": "csp_XYQHiker",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": "https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json",
+           "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"
+       },
+        {
             "key": "益智",
             "name": "🌏┃益智┃动画",
             "type": 3,
@@ -2220,7 +2210,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/益智动画.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "幼小衔接",
@@ -2231,7 +2221,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/幼小衔接.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "小灯塔",
@@ -2242,7 +2232,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/小灯塔百科.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "小灯塔科学",
@@ -2253,7 +2243,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/小灯塔科学.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "小灯塔地理",
@@ -2264,7 +2254,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/小灯塔地理.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "小灯塔国学",
@@ -2275,7 +2265,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/小灯塔国学.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "小灯塔人文",
@@ -2286,7 +2276,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/小灯塔人文.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童拼音",
@@ -2297,7 +2287,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童拼音.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童识字",
@@ -2308,7 +2298,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童识字.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童英语",
@@ -2319,7 +2309,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童英语.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童硬笔",
@@ -2330,7 +2320,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童硬笔.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童思维",
@@ -2341,7 +2331,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童思维.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童口才",
@@ -2352,7 +2342,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童口才.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童编程",
@@ -2363,7 +2353,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童编程.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "儿童武术",
@@ -2374,7 +2364,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/儿童武术.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         },
         {
             "key": "兴趣培养",
@@ -2385,7 +2375,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://jihulab.com/ymz1231/json/-/raw/main/兴趣培养.json",
-            "jar": ""
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/Bili.jar"
         }
     ],
     "parses": [
