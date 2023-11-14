@@ -1350,7 +1350,7 @@
             "type": 3,
             "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
             "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/moflix.js",
-            "jar": o"https://jihulab.cm/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
+            "jar": "https://jihulab.cm/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
         },
         {
             "key": "csp_WoGG",
