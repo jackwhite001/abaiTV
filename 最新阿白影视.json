@@ -2253,7 +2253,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./JS/Blixt.json"
-        },
+        }
     ],
     "parses": [
         {
