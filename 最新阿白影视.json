@@ -50,14 +50,11 @@
             "filterable": 1
         },
         {
-            "key": "T4_玩偶哥哥",
-            "name": "💖阿白┃玩偶哥哥┃4K",
+            "key": "wogg",
+            "name": "👑阿白┃玩偶俊佬👑",
             "type": 4,
-            "searchable": 1,
-            "changeable": 1,
             "playerType": 1,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9a5602254e284136bd6b5639b6add276",
-            "jar": "http://itvba.xyz/tv/jar/YSC.jar"
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?token=40246b74ef1845d0b247950d5b79131d"
         },
         {
             "key": "csp_FanYY",
@@ -109,10 +106,10 @@
             "changeable": 0,
             "ext":
             {
-                "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+                "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
-            },
+            },  
             "jar": "./jar/danmu.jar"
         },
         {
@@ -797,7 +794,7 @@
         },
         {
             "key": "橘子",
-            "name": "🍊┃橘子┃4K",
+            "name": "🍊阿白┃橘子┃4K",
             "type": 3,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
             "api": "csp_AppMao",
@@ -1645,98 +1642,136 @@
             }
         },
         //新增=======================
+{
+      "key":"纸条",
+      "name":"🍭阿白┃纸条",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"./jar/1019.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key":"易搜",
+      "name":"🍭阿白┃易搜",
+      "type":3,
+      "api":"csp_YiSo",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key":"云搜",
+      "name":"🍭阿白┃云搜",
+      "type":3,
+      "api":"csp_UpYun",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt",
+      "jar":"./jar/1019.jar"
+    }, 
+    {
+      "key":"盘搜",
+      "name":"🍭阿白┃盘搜",
+      "type":3,
+      "api":"csp_PanSearch",
+      "jar":"./jar/1019.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key":"七夜",
+      "name":"🍭阿白┃七夜",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "🍭阿白┃易搜HK",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "🍭阿白┃云搜HK",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "🍭阿白┃搜HK",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
         {
-            "key": "Zhaozy",
-            "name": "🍭阿白┃资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$yannanfei$$$abcdefg"
-        },
-        {
-            "key": "YiSo",
-            "name": "🍭阿白┃易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "PanSou",
-            "name": "🍭阿白┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "UpYun",
-            "name": "🍭阿白┃云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "PanSearch",
-            "name": "🍭阿白┃盘Se",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "qiye",
-            "name": "🍭阿白┃七夜",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "小纸条_cli",
-            "name": "🍭阿白┃小纸条",
-            "type": 3,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-            "timeout": 30
-        },
-        {
-            "key": "纸条弹幕版",
-            "name": "🍭阿白┃纸条弹幕",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext":
-            {
-                "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-                "danmu": true
-            },
-            "jar": "./jar/danmu.jar"
-        },
+      "key": "Gitcafe1",
+      "name": "🍭阿白┃纸条HK",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "🍭阿白┃资源HK",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "纸条弹幕版",
+      "name": "🍭阿白┃纸条弹幕",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
         //===================================
         {
             "key": "Zhaozy",
@@ -1853,15 +1888,15 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
         },
         {
-            "key": "PanSearch",
-            "name": "🏵️‍阿白┃阿里PanS",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
+          "key": "UpYun",
+          "name": "😻阿白┃Up搜索",
+          "type": 3,
+          "api": "csp_UpYun",
+          "searchable": 1,
+          "quickSearch": 1,
+          "changeable": 0,
+          "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+          "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90"
         },
         {
             "key": "Zhaozy",
