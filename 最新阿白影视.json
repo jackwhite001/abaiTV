@@ -4,7 +4,7 @@
     "sites": [
 
         {
-            "key": "豆豆",
+            "key": "豆豆",li
             "name": "🍥阿白专线维护",
             "type": 3,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
@@ -2717,26 +2717,15 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
     "lives": [
-    {
-        "group": "redirect",
-        "channels": [
-        {
-            "name": "redirect",
-            "urls": [
-                "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"
-            ]
-        }]
-    }],
-    //   "lives": [
-    //     {
-    //       "name": "live",
-    //       "type": 0,
-    //       "url": "https://dimaston.github.io/live.m3u",
-    //       "playerType": 1,
-    //       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    //       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    //     }
-    //   ],
+         {
+           "name": "live",
+           "type": 0,
+           "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jackwhite001/abaiTV/main/%E9%98%BF%E7%99%BDTV.txt",
+           "playerType": 1,
+           "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+           "logo": "https://epg.112114.xyz/logo/{name}.png"
+         }
+    ],
     "flags": [
         "youku",
         "qq",
