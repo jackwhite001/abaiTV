@@ -171,27 +171,157 @@
         //锦哥采集====================================================
         {
             "key": "js南瓜",
-            "name": "💖阿白┃锦哥在线",
+            "name": "💖阿白┃小天才在线",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "api": "http://jin.xn--kwra9540c.love/js/api.js",
             "ext": "http://jin.xn--kwra9540c.love/sj/nangua",
-            "changeable": 0
+            "changeable": 0,
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "csp_XBPQnmys",
+            "name": "💖阿白┃小天才影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "viewType": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/lezhu",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "火狐",
+            "name": "💖阿白┃小天才采集",
+            "type": 1,
+            "jar":"http://jin.锦哥哥.love/jar/1.jar",
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "categories": [
+            "内地剧",
+            "香港剧",
+            "台湾剧",
+            "日剧",
+            "韩剧",
+            "欧美剧",
+            "动作片",
+            "喜剧片",
+            "科幻片",
+            "恐怖片",
+            "战争片",
+            "大陆综艺",
+            "日韩综艺",
+            "动画片",
+            "中国动漫",
+            "日本动漫"
+            ]
+        },
+        {
+            "key": "csp_ee4345667",
+            "name": "💖阿白┃小天才奇奇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/qixing",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "csp_花猫",
+            "name": "💖阿白┃小天才花猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/huamao",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "csp_兔瓜",
+            "name": "💖阿白┃兔瓜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/tugua",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "js_菜狗",
+            "name": "💖阿白┃爱优腾芒",
+            "type": 3,
+            "api": "http://jin.xn--kwra9540c.love/js/api.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/caigou",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
+        },
+        {
+            "key": "zycj_天天",
+            "name": "💖阿白┃海燕采集",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+            "playUrl": "",
+            "categories": [
+            "内地剧",
+            "动作片",
+            "科幻片",
+            "战争片",
+            "喜剧片",
+            "爱情片",
+            "恐怖片",
+            "犯罪片",
+            "剧情片",
+            "冒险片",
+            "记录片",
+            "伦理片",
+            "韩剧",
+            "香港剧",
+            "台湾剧",
+            "欧美剧",
+            "日剧",
+            "马泰剧",
+            "体育赛事",
+            "综艺",
+            "动画片",
+            "中国动漫",
+            "日本动漫",
+            "欧美动漫"
+             ]
+        },
+
+        {
+            "key": "csp_子子",
+            "name": "💖阿白┃紫霞仙子",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jin.xn--kwra9540c.love/sj/zizi",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
         },
         {
             "key": "drpy_js_超前点播",
-            "name": "💖阿白┃★超前点播",
+            "name": "💖阿白┃超前点播",
             "type": 3,
             "api": "http://jin.xn--kwra9540c.love/js/api.js",
-            "ext": "http://jin.xn--kwra9540c.love/sj/chaoqian"
+            "ext": "http://jin.xn--kwra9540c.love/sj/chaoqian",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
         },
         {
             "key": "drpy_js_首播影院",
             "name": "💖阿白┃首播影院",
             "type": 3,
             "api": "http://jin.xn--kwra9540c.love/js/api.js",
-            "ext": "http://jin.xn--kwra9540c.love/sj/shoubo"
+            "ext": "http://jin.xn--kwra9540c.love/sj/shoubo",
+            "jar":"http://jin.锦哥哥.love/jar/1.jar"
         },
         //范太硬===========================
         {
@@ -2262,14 +2392,39 @@
         },
         //锦哥解析========
         {
-            "name": "一世琉璃",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
+              "name": "网友们",
+              "type": 1,
+              "url": "https://www.qiaoji8.com/tvbox/json.php?url="
         },
         {
-            "name": "许",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
+              "name": "拿去用",
+              "type": 1,
+              "url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="
+        },
+        {
+              "name": "许",
+              "type": 0,
+              "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+              "name": "你",
+              "type": 0,
+              "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+              "name": "三世情缘",
+              "type": 0,
+              "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+              "name": "颖颖",
+              "type": 0,
+              "url": "https://jx.xmflv.com/?url="
+        },
+        {
+              "name": "瑶瑶",
+              "type": 0,
+              "url": "https://jx.bozrc.com:4433/player/?url="
         },
         //=======================
         {
@@ -2335,55 +2490,7 @@
                 }
             }
         },
-        {
-            "name": "芒高/奇异1",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext":
-            {
-                "flag": ["qiyi", "iqiyi", "爱奇艺", "奇艺", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "imgo", "芒果", "sohu", "搜狐", "xigua", "fun", "leshi", "风行"],
-                "header":
-                {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "芒高/奇异2",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url=",
-            "ext":
-            {
-                "flag": ["qiyi", "iqiyi", "爱奇艺", "奇艺", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "imgo", "芒果", "sohu", "搜狐", "xigua", "fun", "leshi", "风行"],
-                "header":
-                {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "8old",
-            "type": 0,
-            "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
-            "ext":
-            {
-                "flag": ["360", "qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-            }
-        },
         //添加外置解析==========================
-        {
-            "name": "比u比u🥭",
-            "type": 1,
-            "url": "https://jxjson.cf/json.php?url=",
-            "ext":
-            {
-                "flag": [
-                    "qq",
-                    "mgtv",
-                    "YuMi-vip"
-                ]
-            }
-        },
         {
             "name": "官解2",
             "type": 1,
@@ -2464,16 +2571,6 @@
             "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "白茶嗅探",
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "showType": 1
-        },
-        {
-            "name": "小种嗅探",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
             "name": "毛尖嗅探",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
@@ -2497,35 +2594,6 @@
                 "bilibili",
                 "哔哩哔哩",
                 "哔哩"
-            ]
-        },
-        {
-            "name": "普洱嗅探",
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "type": 0,
-            "flag": [
-                "qiyi",
-                "imgo",
-                "爱奇艺",
-                "奇艺",
-                "qq",
-                "腾讯",
-                "youku",
-                "优",
-                "pptv",
-                "PPTV",
-                "letv",
-                "乐视",
-                "leshi",
-                "bilibili",
-                "哔哩哔哩",
-                "哔哩",
-                "mgtv",
-                "芒果",
-                "sohu",
-                "xigua",
-                "fun",
-                "风行"
             ]
         },
         {
@@ -2737,20 +2805,43 @@
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
       ],
-    "flags": [
+      "flags": [
         "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
         "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
         "iqiyi",
         "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
         "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
         "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
         "tudou",
         "pptv",
         "mgtv",
-        "wasu",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
         "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩",
+        "wasu",
         "renrenmi"
-    ],
+  ],
     "ijk": [
     {
         "group": "软解码",
@@ -2974,6 +3065,9 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com",
         "qiu.xixiqiu.com",
-        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+        "wan.51img1.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com"
     ]
 }
