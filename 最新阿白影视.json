@@ -1,6 +1,5 @@
   //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-    "spider": "./jar/HeChengChaXiu.jar",
     "warningText": "🐼阿白影视祝您发大财🐼",
     "sites": [
 
@@ -2105,7 +2104,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩相声.json"
+            "ext": "./JS/哔哩相声.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         },
         {
             "key": "天下美食",
@@ -2115,7 +2115,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩美食.json"
+            "ext": "./JS/哔哩美食.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         },
         {
             "key": "戏曲杂苑",
@@ -2125,7 +2126,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩戏曲.json"
+            "ext": "./JS/哔哩戏曲.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         },
         {
             "key": "mtv_xp_动漫巴士",
@@ -2375,7 +2377,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩小学.json"
+            "ext": "./JS/哔哩小学.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         },
         {
             "key": "哔哩初中",
@@ -2385,7 +2388,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩初中.json"
+            "ext": "./JS/哔哩初中.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         },
         {
             "key": "哔哩高中",
@@ -2395,7 +2399,8 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./JS/哔哩高中.json"
+            "ext": "./JS/哔哩高中.json",
+            "jar": "./jar/HeChengChaXiu.jar"
         }
     ],
     "parses": [
