@@ -96,6 +96,39 @@
             "filterable": 1,
             "api": "http://home.jundie.top:9520/spider/csp_JP"
         },
+                {
+            "key": "橘子",
+            "name": "🍊阿白┃橘子┃4K",
+            "type": 3,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
+        },
+        {
+            "key": "玉米",
+            "name": "🌽阿白┃玉米",
+            "type": 0,
+            "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+            "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/spider"
+        },
+        {
+            "key": "看了么",
+            "name": "🐀阿白┃小鼠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./JS/看了吗.json",
+            "jar": "./jar/spider"
+        },
         {
             "key": "玩偶弹幕版",
             "name": "💖阿白┃玩偶|弹幕",
@@ -122,6 +155,7 @@
             "changeable": 0,
             "ext": "http://111.67.195.139/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
         },
+
                 {
         "key": "csp_XBP南坊",
         "name": "🏡阿白┃南坊",
@@ -1034,17 +1068,6 @@
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
             "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"
-        },
-        {
-            "key": "橘子",
-            "name": "🍊阿白┃橘子┃4K",
-            "type": 3,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
         },
         {
             "key": "Auete",
@@ -2023,34 +2046,18 @@
             "jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
         },
         {
-            "key": "csp_BBB",
-            "name": "🅱阿白┃哔哩合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "http://我不是.肥猫.love:63/json/bili.json",
-            "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
-        },
-        {
-            "key": "csp_戏曲",
-            "name": "🅱阿白┃哔哩戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "http://我不是.肥猫.love:63/json/戏曲.json",
-            "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
-        },
-        {
-            "key": "演唱会",
-            "name": "🅱阿白┃哔哩音乐",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "http://我不是.肥猫.love:63/json/ych.json",
-            "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
+          "key": "Bili",
+          "name": "🅱阿白┃哔哩合集",
+          "type": 3,
+          "api": "csp_Bili",
+          "style": {
+            "type": "rect",
+            "ratio": 1.597
+          },
+          "searchable": 1,
+          "quickSearch": 0,
+          "changeable": 0,
+          "ext": "./JS/bilibili.json"
         },
         //新增哔哩哔哩、儿童
         {
