@@ -652,7 +652,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
+            "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
         },
         //春英
         {
