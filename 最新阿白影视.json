@@ -1770,16 +1770,6 @@
             "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
         },
         {
-            "key": "js_bzys",
-            "name": "🌋┃B站┃",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bzys.js"
-        },
-        {
             "key": "🌡csp_米爱影视",
             "name": "🌡阿白┃米爱┃2K",
             "type": 3,
