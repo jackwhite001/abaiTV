@@ -652,7 +652,7 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/两个BT.js",
-            "jar": "./jar/spider.jar"
+            "jar": "./jar/custom_spider.jar"
         },
         {
             "key": "影探VIP",
@@ -663,7 +663,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
+            "jar": "./jar/custom_spider.jar"
         },
         //春英
         {
