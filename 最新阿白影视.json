@@ -14,13 +14,14 @@
             "filterable": 0
         },
         {
-            "key": "js豆瓣备用",
+            "key": "js豆瓣",
             "name": "🍥阿白专线维护，请勿外露🍥",
             "type": 3,
-            "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/doubanbf.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
         },
         {
             "key": "yqkan_open",
@@ -304,7 +305,7 @@
             "ext":
             {
                 "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-                "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+                "filter": ",/JS/wogg.json",
                 "danmu": true
             },  
             "jar": "./jar/danmu.jar"
@@ -318,69 +319,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://111.67.195.139/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
-        },
-
-                {
-        "key": "csp_XBP南坊",
-        "name": "🏡阿白┃南坊",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "站名": "南坊影视",
-          "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-          "请求头": "User-Agent$Dart/2.10 (dart:io)",
-          "二次截取": "\"data\"*[&&]",
-          "数组": "{&&}",
-          "图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
-          "标题": "\"vod_name\"*\"&&\"",
-          "副标题": "\"vod_remarks\"*\"&&\"",
-          "链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-          "线路数组": "\"player_info\":{&&}",
-          "线路标题": "\"show\"*\"&&\"",
-          "导演": "vod_director\"*\"&&\"",
-          "主演": "vod_actor\"*\"&&\"",
-          "简介": "vod_blurb\"*\"&&\"",
-          "播放二次截取": "&&[替换]",
-          "播放数组": "urls*\\[&&\\]",
-          "播放列表": "{&&}",
-          "跳转播放链接": "\"url\"*\"&&\"",
-          "播放标题": "\"name\"*\"&&\"",
-          "跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=",
-          "播放链接": "解析+\"url\"*\"&&\"",
-          "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-          "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
-          "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-        }
-      },
-        {
-            "key": "saohuo",
-            "name": "🔥阿白┃骚火直连",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_XBPQ",
-            "ext":
-            {
-                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
-                "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4"
-            }
-        },
-        {
-            "key": "js_骚火电影",
-            "name": "🔥阿白┃骚火影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/saohuo.js"
         },
         {
             "key": "奇奇",
@@ -724,7 +662,6 @@
             "综艺",
             "动漫"
             ],
-            "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
         },
         {
             "key": "csp_XYQHikerAL_4KHDR",
@@ -1282,53 +1219,6 @@
             "filterable": 1,
             "ext": "https://www.lgyy.vip"
         },
-        {
-            "key": "云播",
-            "name": "☁️阿白┃云播┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext":
-            {
-                "影片类型": "分类：&&主演",
-                "导演": "导演：</span>&&</p>",
-                "主演": "主演：</span>&&</p>",
-                "数组": "myui-vodlist__thumb&&</a>",
-                "搜索模式": "1",
-                "搜索url": "http://www.tvyb03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-                "搜索数组": "{&&}",
-                "嗅探词": ".m3u8#mp4",
-                "线路数组": "</a><h3&&/h3>",
-                "播放标题": ">&&<",
-                "播放列表": "<a&&/a>",
-                "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            }
-        },
-        {
-            "key": "热播库",
-            "name": "🔥阿白┃热播┃BPQ",
-            "type": 3,
-            "changeable": 1,
-            "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext":
-            {
-                "主页url": "https://rebozj.pro",
-                "搜索模式": "1",
-                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-                "线路标题": ">&&<",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "影片类型": "类型：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-                "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
-            }
-        },
         //==================================================
             {
           "key": "农民影视",
@@ -1523,43 +1413,6 @@
             "filterable": 1,
             "ext": "http:tvbox.vip/json/348影视.json"
         },
-      {
-        "key": "csp_XBP美剧",
-        "name": "❤️阿白┃美剧",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "站名": "爱美剧影视",
-          "主页url": "http://172.247.44.75:8083/appto/v1/home/cateData?id=1",
-          "请求头": "User-Agent$Dart/2.19 (dart:io)",
-          "二次截取": "\"data\"*[&&]",
-          "数组": "{&&}",
-          "图片": "\"vod_pic\"*\"&&\"",
-          "标题": "\"vod_name\"*\"&&\"",
-          "副标题": "\"vod_remarks\"*\"&&\"",
-          "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=fgDdxSaYjcm9bcB3EEDb6yZpi3jPJnlNesR48t8u7KR5Zg9t7oOP3OhXcUqfdcf30TDbuK9cx6wO%2BuqDzCOMWm8OU6m6jjMQd5W56peu5OtP1CfYHz5b1EdzI1HH2qobNv6dQZYtbvBK9Y%2F37El1%2Bw%3D%3D",
-          "线路数组": "\"player_info\":{&&}",
-          "线路标题": "\"show\"*\"&&\"",
-          "导演": "vod_director\"*\"&&\"",
-          "主演": "vod_actor\"*\"&&\"",
-          "简介": "vod_blurb\"*\"&&\"",
-          "播放二次截取": "&&[替换]",
-          "播放数组": "urls*\\[&&\\]",
-          "播放列表": "{&&}",
-          "跳转播放链接": "\"url\"*\"&&\"",
-          "播放标题": "\"name\"*\"&&\"",
-          "跳转解析": "美剧线路1$https://bfq.erting.net//TX_video//gzc_1000144.php?url=#美剧线路2$https://www.erting.net//ALI_jiexi//ali_jiexi.php?url=",
-          "播放链接": "解析+\"url\"*\"&&\"",
-          "搜索url": "http://172.247.44.75:8083/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-          "搜索模式": "1",
-          "分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
-          "分类": "短剧$41#电影$1#电视剧$2#动漫$4"
-        }
-      },
         {
         "key": "csp_xBPQ_玖八",
         "name": "🎱阿白┃酒吧",
@@ -1580,17 +1433,6 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http:tvbox.vip/json/七新影视.json",
-        "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
-      },
-        {
-        "key": "csp_爱看",
-        "name": "❤️阿白┃爱看",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/爱看影视.json",
         "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
       },
       {
@@ -1655,14 +1497,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },  
         {
-            "key": "drpy_js_moflix影视",
-            "name": "🐈阿白┃mof┃2k",
-            "type": 3,
-            "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-            "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/moflix.js",
-            "jar": "https://jihulab.cm/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
-        },
-        {
             "key": "csp_WoGG",
             "name": "🌩阿白┃玩偶┃4k",
             "type": 3,
@@ -1696,17 +1530,6 @@
             "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
         },
         {
-            "key": "csp_FreeOK",
-            "name": "💰️阿白┃富瑞┃2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/free.json",
-            "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
-        },
-        {
             "key": "csp_101",
             "name": "🛎阿白┃LOL┃2K",
             "type": 3,
@@ -1715,7 +1538,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/LOL.json"
+            "ext": "http:tvbox.vip/json/LOL.json"
         },
         {
             "key": "csp_圣城",
@@ -1726,7 +1549,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json"
+            "ext": "http:tvbox.vip/json/圣城影视.json"
         },
         {
             "key": "csp_威士",
@@ -2042,7 +1865,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },          
         {
@@ -2053,8 +1875,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",            
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
         },
         {
             "key": "Upyunso",
@@ -2097,8 +1918,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",            
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB",            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
         },
         {
           "key": "UpYun",
@@ -2282,27 +2102,7 @@
             "filterable": 1,
             "ext": "./JS/动漫巴士.json",
             "jar": "./jar/HeChengChaXiu.jar"
-        },
-        {
-            "key": "js_baby",
-            "name": "👶阿白┃宝宝合集",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
-        },
-        {
-            "key": "js_童趣",
-            "name": "🧗‍阿白┃童趣搜视",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tongqu.js"
-        },
+        }, 
         {
              "key": "csp_XYQHiker_兔小贝",
              "name": "🐰阿白┃兔小贝1",
