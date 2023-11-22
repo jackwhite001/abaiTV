@@ -14,6 +14,16 @@
             "filterable": 0
         },
         {
+            "key": "js_豆瓣热播",
+            "name": "💝豆瓣备用",
+            "type": 3,
+            "api": "https://cn.kstore.space/download/4679/lib/man.js",
+            "ext": "http://122.51.37.23/man/js/douban.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "yqkan_open",
             "name": "💖阿白┃一起┃2K",
             "type": 3,
@@ -657,6 +667,118 @@
             "ext": "https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
             "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
         },
+        {
+            "key": "drpy_js_鑫鑫",
+            "name": "❤阿白┃鑫鑫影视",
+            "type": 3,
+            "api": "https://cn.kstore.space/download/4679/lib/man.js",
+            "ext": "http://122.51.37.23/man/js/12xinxin.js",
+            "jar": "./jar/1118.jar"
+        },
+
+        {
+            "key": "drpy_js_北极狐",
+            "name": "❤阿白┃极狐影视",
+            "type": 3,
+            "api": "https://cn.kstore.space/download/4679/lib/man.js",
+            "ext": "http://122.51.37.23/man/js/13jihu.js",
+            "jar": "./jar/1118.jar"
+        },
+        {
+            "key": "迷你库影视",
+            "name": "❤阿白┃迷你影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/",
+            "jar": "./jar/1118.jar"
+        },
+        {
+            "key": "xgapp",
+            "name": "❤阿白┃西瓜采集",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
+            "jar": "./jar/1118.jar"
+        },
+        {
+            "key": "49zy",
+            "name": "❤阿白┃49采集",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": ["国产剧",
+             "纪录片", 
+             "欧美剧", 
+             "香港剧", 
+             "动作片", 
+             "爱情片", 
+             "科幻片", 
+             "恐怖片", 
+             "剧情片", 
+             "战争片", 
+             "喜剧片", 
+             "动画片", 
+             "犯罪片", 
+             "韩国剧", 
+             "动漫", 
+             "电影", 
+             "大陆综艺", 
+             "港台综艺", 
+             "日韩综艺", 
+             "欧美综艺", 
+             "台湾剧", 
+             "国产动漫", 
+             "日本动漫", 
+             "欧美动漫", 
+             "泰国剧", 
+             "日剧", 
+             "电影解说", "奇幻片", "灾难片", "悬疑片", "其他片", "体育赛事", "海外剧"]
+        },
+        {
+            "key": "火狐",
+            "name": "❤阿白┃火狐影视",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "categories": ["内地剧", 
+                "韩剧", 
+                "香港剧", 
+                "台湾剧", 
+                "欧美剧", 
+                "日剧", 
+                "马泰剧", 
+                "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "伦理片"]
+        },
+        {
+            "key": "csp_黑狐",
+            "name": "❤阿白┃黑狐影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.51.37.23/man/xbpq/09heihu.json",
+            "jar": "./jar/1118.jar"
+        },
+        //=========================================================优酷腾讯
+        {"key":"drpy_js_优酷","name":"❤阿白┃优酷(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx01youku.js"},    
+        {"key":"drpy_js_奇珍异兽","name":"❤阿白┃奇艺(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx02aiqiyi.js"},
+        {"key":"drpy_js_腾云驾雾","name":"❤阿白┃腾讯(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx03tengxun.js"},
+        {"key":"drpy_js_百忙无果","name":"❤阿白┃芒果(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx04mangguo.js"},
+        {"key":"drpy_js_360影视","name":"❤阿白┃360影视(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx05sanliuling.js"},
+        {"key":"sohu","name":"❤阿白┃搜狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},    
         //魔改=========================================================
         {
             "key": "影视仓",
@@ -1232,7 +1354,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "ext": "./js/diduan.json",
+          "ext": "./JS/diduan.json",
           "jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
         },
         {
@@ -1468,16 +1590,16 @@
                 "电影"
             ]
         },
-        {
-            "key": "鑫鑫影视",
-            "name": "🐼阿白┃鑫鑫影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-        },  
+        // {
+        //     "key": "鑫鑫影视",
+        //     "name": "🐼阿白┃鑫鑫影视",
+        //     "type": 3,
+        //     "api": "csp_AppYsV2",
+        //     "searchable": 1,
+        //     "quickSearch": 1,
+        //     "filterable": 1,
+        //     "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        // },  
         {
             "key": "csp_WoGG",
             "name": "🌩阿白┃玩偶┃4k",
@@ -2772,8 +2894,27 @@
                 "直 播",
                 "更 新"
             ]
-        }
-    ],
+        },
+        {
+            "name": "量子广告",
+            "hosts": ["vip.lz", "hd.lz"],
+            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+        },
+        {
+            "name": "非凡广告",
+            "hosts": ["vip.ffzy", "hd.ffzy"],
+            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": ["bfzy", "s5.bfzycdn"],
+            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": ["magnet"],
+            "regex": ["更多", "社 區", "x u u", "最 新", "直 播", "更 新", "社 区", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠赌场", "哥哥快来", "美女荷官", "裸聊", "新片首发", "UUE29"]
+        }],
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
     // "lives": [
