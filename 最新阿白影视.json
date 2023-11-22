@@ -719,11 +719,11 @@
             "jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"
         },
         //=========================================================优酷腾讯
-        {"key":"drpy_js_优酷","name":"❤阿白┃优酷(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx01youku.js"},    
-        {"key":"drpy_js_奇珍异兽","name":"❤阿白┃奇艺(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx02aiqiyi.js"},
-        {"key":"drpy_js_腾云驾雾","name":"❤阿白┃腾讯(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx03tengxun.js"},
-        {"key":"drpy_js_百忙无果","name":"❤阿白┃芒果(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx04mangguo.js"},
-        {"key":"drpy_js_360影视","name":"❤阿白┃360影视(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx05sanliuling.js"},
+        {"key":"drpy_js_优酷","name":"❤阿白┃优酷(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx01youku.js","jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"},    
+        {"key":"drpy_js_奇珍异兽","name":"❤阿白┃奇艺(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx02aiqiyi.js","jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"},
+        {"key":"drpy_js_腾云驾雾","name":"❤阿白┃腾讯(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx03tengxun.js","jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"},
+        {"key":"drpy_js_百忙无果","name":"❤阿白┃芒果(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx04mangguo.js","jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"},
+        {"key":"drpy_js_360影视","name":"❤阿白┃360影视(官)","type":3,"api":"https://cn.kstore.space/download/4679/lib/man.js","ext":"http://122.51.37.23/man/js/jx05sanliuling.js","jar": "http://52bsj.vip:81/api/v3/file/get/174028/1118.jar?sign=uRCU_WDbcc2QIeyT4s0cVEko-oiF-6Usk1rbMERaUPw%3D%3A0;md5;ee5f982203e13b0640a2b4aa207e1da1"},
         {"key":"sohu","name":"❤阿白┃搜狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},    
         //魔改=========================================================
         {
@@ -2399,9 +2399,9 @@
     ],
     "parses": [
         {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
         },
         {
             "name": "Json并发",
@@ -2409,9 +2409,9 @@
             "url": "Parallel"
         },
         {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
         },
         {
             "name": "超级嗅探",
