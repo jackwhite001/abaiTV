@@ -14,16 +14,6 @@
             "filterable": 0
         },
         {
-            "key": "js豆瓣",
-            "name": "🍥阿白专线维护，请勿外露🍥",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
-        },
-        {
             "key": "yqkan_open",
             "name": "💖阿白┃一起┃2K",
             "type": 3,
@@ -330,14 +320,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
-        },
-        {
-            "key": "麻衣呀呼",
-            "name": "🐜阿白┃麻衣影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://我不是.肥猫.love:63/json/麻衣呀呼.json",
             "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
         },
         //锦哥采集====================================================
