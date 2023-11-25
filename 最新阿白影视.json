@@ -2906,7 +2906,7 @@
             "regex": ["更多", "社 區", "x u u", "最 新", "直 播", "更 新", "社 区", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠赌场", "哥哥快来", "美女荷官", "裸聊", "新片首发", "UUE29"]
         }],
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
+    "spider": "./jar/CustomSpider.jar",
     // "lives": [
     // {
     //     "group": "redirect",
