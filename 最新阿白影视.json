@@ -97,7 +97,8 @@
               "name": "⛄阿白┃瑞丰┃2K",
               "type": 3,
               "api": "csp_AppYsV2",
-              "ext": "http://www.miniku.cc/xgapp.php/v2/"
+              "ext": "http://www.miniku.cc/xgapp.php/v2/",
+              "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
           },
           {
               "key": "csp_Free",
@@ -109,17 +110,6 @@
               "filterable": 1,
               "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json",
               "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
-          },
-          {
-              "key": "橘子",
-              "name": "💖阿白┃橘子┃2K",
-              "type": 3,
-              "api": "csp_AppMao",
-              "searchable": 1,
-              "quickSearch": 1,
-              "changeable": 1,
-              "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-              "jar": "./jar/spider.jar"
           },
           {
               "key": "玩偶哥哥",
@@ -453,17 +443,6 @@
               "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
           },
           {
-              "key": "看了么",
-              "name": "🐀阿白┃小鼠",
-              "type": 3,
-              "api": "csp_XBPQ",
-              "searchable": 1,
-              "quickSearch": 1,
-              "filterable": 1,
-              "ext": "./JS/看了吗.json",
-              "jar": "./jar/spider.jar"
-          },
-          {
               "key": "豪华资源",
               "name": "🥬阿白┃豪华┃2K",
               "type": 1,
@@ -497,59 +476,6 @@
                   "港台综艺",
                   "欧美综艺"
               ]
-          },
-          {
-              "key": "49zy",
-              "name": "🗼阿白┃49Z┃2K",
-              "type": 1,
-              "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-              "searchable": 1,
-              "quickSearch": 1,
-              "filterable": 1,
-              "changeable": 1,
-              "categories": [
-                  "国产剧",
-                  "纪录片",
-                  "欧美剧",
-                  "香港剧",
-                  "动作片",
-                  "爱情片",
-                  "科幻片",
-                  "恐怖片",
-                  "剧情片",
-                  "战争片",
-                  "喜剧片",
-                  "动画片",
-                  "犯罪片",
-                  "韩国剧",
-                  "动漫",
-                  "电影",
-                  "大陆综艺",
-                  "港台综艺",
-                  "日韩综艺",
-                  "欧美综艺",
-                  "台湾剧",
-                  "国产动漫",
-                  "日本动漫",
-                  "欧美动漫",
-                  "泰国剧",
-                  "日剧",
-                  "电影解说",
-                  "奇幻片",
-                  "灾难片",
-                  "悬疑片",
-                  "其他片",
-                  "体育赛事",
-                  "海外剧"
-              ]
-          },
-
-          {
-              "key": "apv2_瑞丰",
-              "name": "⛄阿白┃瑞丰┃2K",
-              "type": 3,
-              "api": "csp_AppYsV2",
-              "ext": "http://www.miniku.cc/xgapp.php/v2/"
           },
           {
               "key": "csp_子子",
@@ -886,6 +812,17 @@
               ],
               "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
           },
+            {
+                "key": "鑫鑫影视",
+                "name": "🐼阿白┃鑫鑫┃",
+                "type": 3,
+                "api": "csp_AppYsV2",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "ext": "http://yingszj.xn--654a.cc/api.php/app/",
+                "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
+            },
           {
               "key": "迷你库",
               "name": "💖阿白┃迷你库",
@@ -950,14 +887,6 @@
               "filterable": 1,
               "ext": "https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
               "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
-          },
-          {
-              "key": "drpy_js_鑫鑫",
-              "name": "❤阿白┃鑫鑫影视",
-              "type": 3,
-              "api": "https://cn.kstore.space/download/4679/lib/man.js",
-              "ext": "http://122.51.37.23/man/js/12xinxin.js",
-              "jar": "./jar/1118.jar"
           },
 
           {
@@ -1694,15 +1623,6 @@
               "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
           },
           {
-              "key": "布雷",
-              "name": "💥阿白┃布雷┃4K",
-              "type": 3,
-              "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-              "api": "csp_AppMao",
-              "playerType": 2,
-              "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
-          },
-          {
               "key": "csp_干饭",
               "name": "🍱阿白┃干饭",
               "type": 3,
@@ -1865,17 +1785,6 @@
           //     "filterable": 1,
           //     "ext": "http://yingszj.xn--654a.cc/api.php/app/"
           // },  
-          {
-              "key": "csp_WoGG",
-              "name": "🌩阿白┃玩偶┃4k",
-              "type": 3,
-              "api": "csp_WoGG",
-              "searchable": 1,
-              "quickSearch": 1,
-              "changeable": 0,
-              "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/",
-              "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
-          },
           {
               "key": "csp_New6v",
               "name": "🐼阿白┃磁力6V",
@@ -2066,21 +1975,34 @@
               "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
               "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
           },
-          {
-              "key": "Aid",
-              "name": "🚑阿白┃急救教学",
-              "type": 3,
-              "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-              "api": "csp_FirstAid",
-              "searchable": 0,
-              "quickSearch": 0,
-              "changeable": 0,
-              "style":
-              {
-                  "type": "rect",
-                  "ratio": 3.8
-              }
-          },
+    {
+      "key": "Aid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b",
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "drpy_js_斗鱼直播",
+      "name": "🦈┃斗鱼┃直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+    },
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+    },
           {
               "key": "XBPQ_葡萄",
               "name": "🎦阿白┃短剧葡萄",
@@ -2476,6 +2398,35 @@
               "ext": "./JS/动漫巴士.json",
               "jar": "./jar/HeChengChaXiu.jar"
           },
+      {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
+    },
           {
               "key": "csp_XYQHiker_兔小贝",
               "name": "🐰阿白┃兔小贝1",
